@@ -1,0 +1,1 @@
+#Prints the multiplication table of a number 'n'
